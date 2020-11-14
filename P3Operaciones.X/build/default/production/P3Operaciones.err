@@ -1,0 +1,8 @@
+Warning[207] /home/alaguna/MPLABXProjects/P3Operaciones.X/P3Operaciones.asm 17 : Found label after column 1. (INICIO)
+Warning[207] /home/alaguna/MPLABXProjects/P3Operaciones.X/P3Operaciones.asm 31 : Found label after column 1. (MAIN)
+Warning[207] /home/alaguna/MPLABXProjects/P3Operaciones.X/P3Operaciones.asm 45 : Found label after column 1. (VERIFICAR_RC1_CON_RC2_EN_CERO)
+Warning[207] /home/alaguna/MPLABXProjects/P3Operaciones.X/P3Operaciones.asm 50 : Found label after column 1. (VERIFICAR_RC1_CON_RC2_EN_UNO)
+Warning[207] /home/alaguna/MPLABXProjects/P3Operaciones.X/P3Operaciones.asm 55 : Found label after column 1. (HACER_SUMA)
+Warning[207] /home/alaguna/MPLABXProjects/P3Operaciones.X/P3Operaciones.asm 62 : Found label after column 1. (HACER_RESTA)
+Warning[207] /home/alaguna/MPLABXProjects/P3Operaciones.X/P3Operaciones.asm 69 : Found label after column 1. (HACER_MULTIPLICACION)
+Warning[207] /home/alaguna/MPLABXProjects/P3Operaciones.X/P3Operaciones.asm 75 : Found label after column 1. (HACER_NADA)

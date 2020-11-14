@@ -1,0 +1,47 @@
+__S0 0 0 ABS 0
+__S1 0 0 ABS 0
+__S3 0 0 ABS 0
+__Hudata_bank4 A 0 ABS 0
+__Ludata_bank4 A 0 ABS 0
+__Hudata_acs A 0 ABS 0
+__Ludata_acs A 0 ABS 0
+__Hudata_bank5 A 0 ABS 0
+__Ludata_bank5 A 0 ABS 0
+__Hcode A 0 ABS 0
+__Lcode A 0 ABS 0
+__Hdata A 0 ABS 0
+__Ldata A 0 ABS 0
+__Hudata_bank0 A 0 ABS 0
+__Ludata_bank0 A 0 ABS 0
+__Hudata_bank6 A 0 ABS 0
+__Ludata_bank6 A 0 ABS 0
+__Hedata A 0 ABS 0
+__Ledata A 0 ABS 0
+__Hudata A 0 ABS 0
+__Ludata A 0 ABS 0
+__Hudata_bank1 A 0 ABS 0
+__Ludata_bank1 A 0 ABS 0
+__Hspace_0 A 0 ABS 0
+__Lspace_0 0 0 ABS 0
+__Hspace_1 0 0 ABS 0
+__Lspace_1 0 0 ABS 0
+__Hdatas A 0 ABS 0
+__Ldatas 0 0 ABS 0
+__Hudata_bank7 A 0 ABS 0
+__Ludata_bank7 A 0 ABS 0
+__Hspace_3 0 0 ABS 0
+__Lspace_3 0 0 ABS 0
+__Hudata_bank2 A 0 ABS 0
+__Ludata_bank2 A 0 ABS 0
+__Hudata_bank3 A 0 ABS 0
+__Ludata_bank3 A 0 ABS 0
+%segments
+%locals
+build/default/production/SumReg.o
+/opt/microchip/xc8/v2.30/pic/include/proc/pic18f4550.inc
+SumReg.s
+27 0 0 ABS 0
+28 0 0 ABS 0
+29 2 0 ABS 0
+30 4 0 ABS 0
+31 6 0 ABS 0

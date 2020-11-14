@@ -1,0 +1,22 @@
+### HEXMate logfile and output summary ###
+### Memory Usage ###
+ Unused memory ranges:
+  0h - 7FF5h
+  
+ dist/default/debug/SumReg.X.debug.hex ranges:
+  7FF6h - 7FFFh
+  
+### Hex Memory Map ###
+ Legend:
+  - = Unused memory
+  F = Filled ROM
+  S = Stored serial code
+  A = Stored ASCII string
+  R = Reserved for checksum
+  C = Stored checksum result
+  T = Trailing code
+  & = Find & replace opcode
+  X = Find & delete opcode
+  1 = dist/default/debug/SumReg.X.debug.hex
+00000000: ----------------------------------------------------------------
+00007FC0: ------------------------------------------------------1111111111

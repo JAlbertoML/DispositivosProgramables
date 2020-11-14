@@ -1,0 +1,6 @@
+Warning[207] /home/alaguna/MPLABXProjects/P3DosSWunLed.X/P3DosSWunLed.asm 13 : Found label after column 1. (INICIO)
+Warning[207] /home/alaguna/MPLABXProjects/P3DosSWunLed.X/P3DosSWunLed.asm 24 : Found label after column 1. (MAIN)
+Warning[207] /home/alaguna/MPLABXProjects/P3DosSWunLed.X/P3DosSWunLed.asm 29 : Found label after column 1. (VERIFICAR_SW_2_CON_SW_1_EN_CERO)
+Warning[207] /home/alaguna/MPLABXProjects/P3DosSWunLed.X/P3DosSWunLed.asm 34 : Found label after column 1. (VERIFICAR_SW_2_CON_SW_1_EN_UNO)
+Warning[207] /home/alaguna/MPLABXProjects/P3DosSWunLed.X/P3DosSWunLed.asm 39 : Found label after column 1. (APAGAR)
+Warning[207] /home/alaguna/MPLABXProjects/P3DosSWunLed.X/P3DosSWunLed.asm 43 : Found label after column 1. (ENCENDER)

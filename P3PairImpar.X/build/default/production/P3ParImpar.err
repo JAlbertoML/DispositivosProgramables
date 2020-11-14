@@ -1,0 +1,4 @@
+Warning[207] /home/alaguna/MPLABXProjects/P3PairImpar.X/P3ParImpar.asm 13 : Found label after column 1. (INICIO)
+Warning[207] /home/alaguna/MPLABXProjects/P3PairImpar.X/P3ParImpar.asm 24 : Found label after column 1. (MAIN)
+Warning[207] /home/alaguna/MPLABXProjects/P3PairImpar.X/P3ParImpar.asm 29 : Found label after column 1. (ENCENDER_PARES)
+Warning[207] /home/alaguna/MPLABXProjects/P3PairImpar.X/P3ParImpar.asm 34 : Found label after column 1. (ENCENDER_IMPARES)

@@ -1,0 +1,18 @@
+Warning[207] /home/alaguna/MPLABXProjects/practica1.X/practica1.asm 14 : Found label after column 1. (RS)
+Warning[207] /home/alaguna/MPLABXProjects/practica1.X/practica1.asm 15 : Found label after column 1. (RR1)
+Warning[207] /home/alaguna/MPLABXProjects/practica1.X/practica1.asm 16 : Found label after column 1. (RR2)
+Warning[207] /home/alaguna/MPLABXProjects/practica1.X/practica1.asm 17 : Found label after column 1. (RML)
+Warning[207] /home/alaguna/MPLABXProjects/practica1.X/practica1.asm 18 : Found label after column 1. (RMH)
+Warning[207] /home/alaguna/MPLABXProjects/practica1.X/practica1.asm 21 : Found label after column 1. (_200)
+Warning[207] /home/alaguna/MPLABXProjects/practica1.X/practica1.asm 22 : Found label after column 1. (_1)
+Warning[207] /home/alaguna/MPLABXProjects/practica1.X/practica1.asm 23 : Found label after column 1. (_60)
+Warning[207] /home/alaguna/MPLABXProjects/practica1.X/practica1.asm 24 : Found label after column 1. (_130)
+Warning[207] /home/alaguna/MPLABXProjects/practica1.X/practica1.asm 25 : Found label after column 1. (_40)
+Warning[207] /home/alaguna/MPLABXProjects/practica1.X/practica1.asm 26 : Found label after column 1. (_56)
+Warning[207] /home/alaguna/MPLABXProjects/practica1.X/practica1.asm 29 : Found label after column 1. (ORIGEN)
+Warning[207] /home/alaguna/MPLABXProjects/practica1.X/practica1.asm 32 : Found label after column 1. (SUMA)
+Warning[207] /home/alaguna/MPLABXProjects/practica1.X/practica1.asm 37 : Found label after column 1. (RESTA1)
+Warning[207] /home/alaguna/MPLABXProjects/practica1.X/practica1.asm 42 : Found label after column 1. (RESTA2)
+Warning[207] /home/alaguna/MPLABXProjects/practica1.X/practica1.asm 47 : Found label after column 1. (MULTIPLICACION)
+Warning[202] /home/alaguna/MPLABXProjects/practica1.X/practica1.asm 51 : Argument out of range.  Least significant bits used.
+Warning[202] /home/alaguna/MPLABXProjects/practica1.X/practica1.asm 53 : Argument out of range.  Least significant bits used.
